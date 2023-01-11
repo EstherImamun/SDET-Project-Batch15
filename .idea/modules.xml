@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SDET ESTHER.iml" filepath="$PROJECT_DIR$/SDET ESTHER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdetEsther.iml" filepath="$PROJECT_DIR$/sdetEsther.iml" />
     </modules>
   </component>
 </project>
