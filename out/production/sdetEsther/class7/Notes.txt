@@ -1,0 +1,10 @@
+While Loop:
+they help us repeat code or instructions.
+
+Why should we use while loops:
+Because manually copying and pasting is very bad, it's not scalable. They also help
+us reduce the number of lines of code that we have to type.
+Syntax for WhileLoop:
+while(Condition){
+code that we want to repeat
+}
