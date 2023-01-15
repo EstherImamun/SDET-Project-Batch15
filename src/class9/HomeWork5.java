@@ -2,6 +2,8 @@ package class9;
 
 public class HomeWork5 {
     public static void main(String[] args) {
+        //Homework number 5
+
         int[] numbers=new int[5];
         numbers[0]=1;
         numbers[1]=2;

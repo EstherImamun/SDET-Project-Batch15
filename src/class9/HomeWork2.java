@@ -2,6 +2,8 @@ package class9;
 
 public class HomeWork2 {
     public static void main(String[] args) {
+        //Homework number 2a
+
         String [] names={"Olga Shibaeva","Fouzia Safeer","Evgenii Aleksandrov","Batyr Hommadov","Urwa Waseem",
         "M. Asem Ezedyar","Esther Imamun"};
 
