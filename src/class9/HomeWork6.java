@@ -4,21 +4,19 @@ import java.util.Scanner;
 
 public class HomeWork6 {
     public static void main(String[] args) {
-        String[] countries={"Nigeria","Luxembourg","Germany","Switzerland"};
-        String[] capital=new String[3];
-        capital[0]="ABUJA";
-        capital[1]="LUXEMBOURG";
-        capital[2]="BERLIN";
-        capital[3]="BERN";
+        String[] countries = {"Nigeria", "Luxembourg", "Germany", "Switzerland", "Austria"};
+        String[] capitals =new String[5];
+        capitals[0]="Abuja";
+        capitals[1]="Luxembourg";
+        capitals[2]="Berlin";
+        capitals[3]="Bern";
+        capitals[4]="Vienna";
         for (int i = 0; i < countries.length; i++) {
-            if(countries.equals("Nigeria")){
-            System.out.println(capital[0]);
-            } else if (countries.equals("Luxembourg")) {
-                System.out.println(capital[1]);
+            for (int j = 0; j < capitals.length; j++) {
+                System.out.println("The capital if "+countries[i]+ " is " + capitals[j]);
+                i++;
             }
-
-            System.out.println(countries[i]);
-        }
         }
     }
+}
 
