@@ -7,7 +7,7 @@ public class Homework2DArrays5 {
                          {20,40,17,33}
         };
         for (int i = 0; i < numbers.length; i++) {
-            for (int j = 0; j < numbers[0].length; j++) {
+            for (int j = 0; j < numbers[i].length; j++) {
                 if(numbers[i][j]%2==0)
                 System.out.print(numbers[i][j]+" ");
             }

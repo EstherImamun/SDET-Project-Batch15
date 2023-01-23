@@ -14,6 +14,7 @@ public class D2Arrays {
         thomsonTrain[0]=cabin0;
         thomsonTrain[1]=cabin1;
         thomsonTrain[2]=cabin2;
+
     // in the first [] we specify the address of 1 D array
         System.out.println(thomsonTrain[1][1]);
 

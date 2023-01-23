@@ -25,7 +25,7 @@ public class Homework2DArrays6 {
             }
                   System.out.println();
             {
-                System.out.println(count);
+                System.out.println("Total countries "+count);
                 }
             System.out.println();
             }

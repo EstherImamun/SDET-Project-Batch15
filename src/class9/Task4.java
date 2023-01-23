@@ -60,8 +60,8 @@ public class Task4 {
         double amountPaid=scanner.nextDouble();
 
         if(amountPaid>totalPrice){
-            double chang=amountPaid-totalPrice;
-            System.out.println("Hey here is your change "+chang);
+            double change=amountPaid-totalPrice;
+            System.out.println("Hey here is your change "+change);
         }
         System.out.println("Thank you for shopping!");
 
