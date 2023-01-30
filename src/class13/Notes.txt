@@ -1,0 +1,10 @@
+When we should use String class:
+    when we want to save as much memory aas possible and we are ok if the programme gets a little slow.
+
+When should we use StringBuilder class:
+    when we want maximum speed and we don't care how much memory our programs will occupy.
+
+What does it mean by String is immutable:
+     It means Strings are not changeable once created in the memory of the computer, and the reason they are immutable
+     is because same memory cell can be shared across many variebles and if we allow any of the variables to change
+     the value, it can break the complete system.

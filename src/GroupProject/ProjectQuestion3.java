@@ -6,7 +6,7 @@ public class ProjectQuestion3 {
                        {7,90,45,11},
                        {2,8,10,}
         };
-       int Sum=0;
+       /*int Sum=0;
         for (int i = 0; i < values.length; i++) {
             for (int j = 0; j < values[i].length; j++) {
                 System.out.print(values[i][j]+" ");
@@ -17,6 +17,32 @@ public class ProjectQuestion3 {
 
             System.out.println();
 
+        }*/
+        int sum=0;
+        for(int[]num:values){
+            for(int number:num){
+                sum+=number;
+            }
         }
+        System.out.println();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }

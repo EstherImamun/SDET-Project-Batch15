@@ -9,5 +9,7 @@ public class ArrayDemo2 {
             sum=sum+numbers[i];
             System.out.println(sum);
         }
-    }
+
+
+             }
 }

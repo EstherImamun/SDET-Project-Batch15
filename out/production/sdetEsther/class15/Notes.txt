@@ -1,0 +1,47 @@
+Methods in Java:
+          is just a collection of java statement and blocks of code like if else, loops, printlns etc
+WhyWhy should we learn about methods:
+          1.  it allows us to simplify large code as we can divide the logic into smaller parts by creating methods for them,
+          build those methods one by one and later on combine them to build the complete application.
+          2.  Methods allow us to re-use code.
+          3.  Methods allow us to be flexible.
+
+   How can we create Methods?
+          There are two types, Built-in and User defined.
+Built-in methods?
+          The methods which are designed by Java developers. for example: the println(), nextInt(),method in the
+          Scanner class, length() present in String clas, They are all built-in methods.
+   User defined Methods:
+          The methods that we write.
+Methods which returns something when called and others are methods which do not return anything when called.
+
+
+int add(int a,int b){
+return a+b;
+}
+
+int => return type of a method
+add =>name of the method
+(int a, intb)=>parameters of the method or the input to the method
+{=>body of the method
+}
+
+Rules:
+return types and the values we are returning form a method should match
+we can only assign methods to variables of same type.
+-----------------------------------------------------------
+
+There are three types of variables with respect to their scope
+local variables:
+     if a variable is created inside a block of code like a method, loop, if condition etc,
+     they are called local variables.
+upside:
+     local variable occupy the memory for the shortest period of time.You should always
+     try to write code with the help of local variables.
+Downside:
+     They can't be accessed outside the block in which they are created.They have very limited scope.
+Instance variables:
+     All the variables which are created inside a class but outside of methods are called instance variables.
+
+static variables:
+     All the variables which are outside of methods and have static keyword are called static variables
