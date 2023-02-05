@@ -1,0 +1,11 @@
+Constructor - block of code similar to a method that is executed when we create an object.
+
+Why do we need it? - constructor initializes the object
+
+How to create a constructor?
+1. Constructor name must be same as a class
+2. Constructor does not have a RETURN type
+
+Types of constructors:
+
+

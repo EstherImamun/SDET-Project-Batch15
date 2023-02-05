@@ -9,8 +9,7 @@ public class Homework3 {
         }
 
     public static void main(String[] args) {
-        Homework3 hm=new Homework3();
-        System.out.println(hm.nameOfP("Understanding"));
+        System.out.println(nameOfP("Understanding"));
 
 
     }

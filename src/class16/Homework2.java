@@ -16,9 +16,7 @@ public class Homework2 {
     }
 
     public static void main(String[] args) {
-        Homework2 hm=new Homework2();
-        hm.word="Chicken";
-        System.out.println(hm.reverse(word));
+        System.out.println(Homework2.reverse("Josh"));
     }
 
 }
