@@ -1,4 +1,4 @@
-package class22;
+package class1Practice;
 
 public class EstherReview {
     public static void main(String[] args) {

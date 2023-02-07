@@ -5,16 +5,16 @@ public class Teacher {
     String teacherID;
     String school;
 
-    void teachSubject(){
+    public void teachSubject(){
         System.out.println("Teacher is teaching Subject");
     }
-    void write(){
+    public void write(){
         System.out.println("Teacher is writing");
     }
-    void giveHomework(){
+    public void giveHomework(){
         System.out.println("Teacher is giving Homework");
     }
-    void giveExample(){
+    public void giveExample(){
         System.out.println("Teacher is giving examples in class");
     }
 }
