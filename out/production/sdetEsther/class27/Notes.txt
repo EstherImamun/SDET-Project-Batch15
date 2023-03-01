@@ -1,0 +1,3 @@
+Diamond Operators are also called angle brackects "<>". they are used to specify the name of the class
+ whose objects we will be storing inside the classes which belongs to collections framework or any other
+ class which uses java generics.
